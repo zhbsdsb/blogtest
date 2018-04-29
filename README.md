@@ -6,6 +6,7 @@
 
 ## 浏览器什么地干活
 
+![](https://github.com/zhbsdsb/blogtest/blob/master/14527434284853.jpg?raw=true)
 - http://www.baidu.com 在这串URL里baidu.com就是域名，浏览器解析域名获得服务器的IP地址，向服务器发出请求，拿出服务器内的文件展示着浏览器上。
 
 ## IP地址
@@ -19,8 +20,20 @@
 
 ## 服务器
 
+![](https://github.com/zhbsdsb/blogtest/blob/master/2305564016-0.jpg?raw=true)
 - 发出请求后有由服务器应用程序web server管理，它会给出网站代码或者接受请求反向代理到其他web服务器。(PS:常见的web服务器有Apache，Nginx，LLS，Lighttpd)
 
 ## 浏览器处理
 
 - HTML字符串被浏览器接受后会被读取解析，读取到对应标签就会重新发送请求，比如解析到link标签会重新发送请求获取ccs，随后浏览器根据HTML和CSS计算得到渲染树，绘制到屏幕上。
+
+
+
+
+
+
+
+[了解Apache](https://www.apache.org/)
+
+
+[了解Nginx](https://www.nginx.com/)
