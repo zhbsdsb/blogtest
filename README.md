@@ -1,5 +1,7 @@
 # 从www.baidu.com到网页发生了什么
 
+[](https://github.com/zhbsdsb/blogtest/blob/master/9150e4e5jw1fca1msxvxyj20b40740st.jpg?raw=true)
+
 ## URL
 
 - URL就是 http://www.baidu.com, http是协议名称,其他还有https这种带加密带协议用于保护密码之类的；www指的是万维网；baidu.com是域名；.com是company的简写指这个网站属于公司所有。
